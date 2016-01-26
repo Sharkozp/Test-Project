@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="splash_screen_text">Some Splash Text</string>
+    <string name="generate_text">Generate</string>
+    <string name="tab_title_0">Persons</string>
+    <string name="tab_title_1">Map</string>
+    <string name="dislike_button">Dislike</string>
+    <string name="like_button">Like</string>
+    <string name="back_button">Back</string>
+    <string name="congratulation_text">Congratulation!</string>
+    <string name="notification_removed_text">Someone removed you.</string>
+    <string name="notification_like_text">Someone likes you!</string>
+</resources>
